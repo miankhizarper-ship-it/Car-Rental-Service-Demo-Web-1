@@ -2,5 +2,7 @@
   "name": "Car Rental Peshawar & Mardan",
   "description": "Premium and budget car rental showroom in Peshawar & Mardan. Rent Toyota Fortuner, Honda Civic, Corolla, Revo, Prado with doorstep delivery and 24/7 service.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }

@@ -70,7 +70,7 @@ export const ServiceHighlights: React.FC = () => {
           <div className="lg:col-span-5 relative">
             <div className="rounded-3xl overflow-hidden shadow-2xl border border-slate-200/80 bg-slate-900">
               <img 
-                src="/src/assets/images/hero_car_showroom_1793097354491.jpg" 
+                src="./images/hero_car_showroom_1793097354491.jpg" 
                 alt="Happy customer receiving car keys"
                 className="w-full h-[400px] object-cover object-center"
               />

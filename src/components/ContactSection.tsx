@@ -178,7 +178,7 @@ export const ContactSection: React.FC<ContactSectionProps> = ({ onOpenWhatsApp }
           {/* Right Image Showcase */}
           <div className="lg:col-span-6 rounded-3xl overflow-hidden shadow-xl border border-slate-200 bg-slate-900 relative">
             <img
-              src="/src/assets/images/hero_car_showroom_1793097354491.jpg"
+              src="./images/hero_car_showroom_1793097354491.jpg"
               alt="Car Rental Contact Banner"
               className="w-full h-full object-cover min-h-[360px]"
             />

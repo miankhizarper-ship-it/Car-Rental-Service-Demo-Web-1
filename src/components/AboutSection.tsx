@@ -66,7 +66,7 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ onOpenWhatsApp }) =>
         {/* High-Resolution Showroom Banner & Counters */}
         <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-slate-200 bg-slate-900">
           <img
-            src="/src/assets/images/hero_car_showroom_1793097354491.jpg"
+            src="./images/hero_car_showroom_1793097354491.jpg"
             alt="Peshawar Car Rental Showroom"
             className="w-full h-80 sm:h-96 object-cover object-center opacity-80"
           />

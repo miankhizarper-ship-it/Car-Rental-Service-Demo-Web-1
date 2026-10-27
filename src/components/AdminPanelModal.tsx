@@ -71,7 +71,7 @@ export const AdminPanelModal: React.FC<AdminPanelModalProps> = ({
       fuelType: newCarFuel,
       seats: Number(newCarSeats),
       airConditioner: true,
-      image: '/src/assets/images/hero_car_showroom_1793097354491.jpg',
+      image: './images/hero_car_showroom_1793097354491.jpg',
       badge: 'Available Now',
       description: newCarDesc || 'Newly added vehicle in Peshawar & Mardan fleet.',
       isAvailable: true,

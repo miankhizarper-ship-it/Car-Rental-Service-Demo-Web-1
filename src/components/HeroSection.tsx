@@ -81,7 +81,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
             <div className="relative z-10 mt-8 pt-4 border-t border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4">
               <div className="w-full sm:w-2/3 rounded-2xl overflow-hidden shadow-2xl border border-white/20">
                 <img
-                  src="/src/assets/images/hero_car_showroom_1793097354491.jpg"
+                  src="./images/hero_car_showroom_1793097354491.jpg"
                   alt="Car Rental Showroom Vehicles"
                   className="w-full h-44 object-cover object-center transform hover:scale-105 transition-transform duration-500"
                   loading="eager"
